@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 I’m currently working on: **<Tên project AI hiện tại>**
+- 🔭 I’m currently working on small AI/ML projects to strengthen my understanding of the field.
 - 🧠 Focus: **Computer Vision, Deep Learning, LLMs, MLOps, RAG**
 - 🚀 Love: turning research papers into real-world products
 - 🌱 Learning: **<VD: Retrieval-Augmented Generation, LLMOps, Vector DBs>**
