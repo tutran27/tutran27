@@ -39,16 +39,6 @@
 - 🔍 CNN (Resnet)
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutran27&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tutran27&theme=transparent" alt="GitHub streak" />
-</p>
-
 
 ---
 
@@ -59,7 +49,3 @@
 - 📱 Phone: **0369.756.987**
 
 ---
-
-<p align="center">
-  <i>“Build, ship, and iterate.”</i>
-</p>
