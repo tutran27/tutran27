@@ -33,7 +33,7 @@
 - 🔍 LLM + vector database (Chroma)
 - ⚙️ Stack: FastAPI, LangChain, OpenAI API
 
-#### 🧠 2. <Animal-Classification-use-ResNet-Model> – https://github.com/tutran27/Animal-Classification-use-ResNet-Model.git
+#### 🧠 2. Animal-Classification-use-ResNet-Model – https://github.com/tutran27/Animal-Classification-use-ResNet-Model.git
 - 🧹 Data preprocessing & feature engineering
 - 🧪 Training + evaluation + model registry
 - 🔍 CNN (Resnet)
