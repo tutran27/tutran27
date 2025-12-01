@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tú – AI Engineer</h1>
-<h3 align="center">I build ML systems from idea to production.</h3>
+<h1 align="center">Hi 👋, I'm Tú – AI/ML Student</h1>
+<h3 align="center">I’m passionate about exploring and learning Artificial Intelligence.</h3>
 
 ---
 
@@ -46,8 +46,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tutran27&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=tutran27&theme=transparent" alt="GitHub streak" />
 </p>
+
 
 ---
 
