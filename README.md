@@ -17,12 +17,12 @@
 
 #### 🤖 AI / ML
 - Python, PyTorch, scikit-learn  
-- Transformers, HuggingFace, LangChain  
-- Google Gemini API, Llama, Stable Diffusion
+- Transformers, HuggingFace, LangChain, SmolAgent, LangGraph  
+
 
 #### 🧱 MLOps / Backend
 - FastAPI, 
-- Docker, CI/CD (Basic)
+- Docker
 - Git/Github
 
 ---
@@ -31,7 +31,7 @@
 
 #### 🚦 1. <Chatbot hỗ trợ tư vấn tuyển sinh kết hợp giải đáp thắc mắc cho sinh viên> 
 - 🔍 LLM + vector database (Chroma)
-- ⚙️ Stack: FastAPI, LangChain, OpenAI API
+- ⚙️ Stack: FastAPI, LangChain
 
 #### 🧠 2. Animal-Classification-use-ResNet-Model – https://github.com/tutran27/Animal-Classification-use-ResNet-Model.git
 - 🧹 Data preprocessing & feature engineering
