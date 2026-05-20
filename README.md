@@ -1,51 +1,60 @@
-<h1 align="center">Hi 👋, I'm Tú – AI/ML Student</h1>
-<h3 align="center">I’m passionate about exploring and learning Artificial Intelligence.</h3>
+# Hi, I'm Tú 👋
+
+AI/ML student at Da Nang University of Science and Technology.  
+I focus on building practical AI systems: **RAG, LLM Agents, Computer Vision, Edge AI** and AI-backed web applications.
 
 ---
 
-### 👨‍💻 About me
+## About Me
 
-- 🔭 I’m currently working on small AI/ML projects to strengthen my understanding of the field.
-- 🧠 Focus: **Computer Vision, Deep Learning, LLMs, MLOps, RAG**
-- 🚀 Love: turning research papers into real-world products
-- 🌱 Learning: **<VD: Retrieval-Augmented Generation, LLMOps, Vector DBs>**
-- 📫 Reach me at: **dinhtu7cfc@gmail.com**
-
----
-
-### 🛠 Tech Stack
-
-#### 🤖 AI / ML
-- Python, PyTorch, scikit-learn  
-- Transformers, HuggingFace, LangChain, SmolAgent, LangGraph  
-
-
-#### 🧱 MLOps / Backend
-- FastAPI, 
-- Docker
-- Git/Github
+- Interested in turning AI ideas into working products
+- Currently learning and building with **LLMs, RAG, Vector Databases, Agents and Edge AI**
+- Strong focus on hands-on projects: from model training to API/UI deployment
+- Based in Da Nang, Viet Nam
 
 ---
 
-### 📌 Featured Projects
+## Technical Stack
 
-#### 🚦 1. <Chatbot hỗ trợ tư vấn tuyển sinh kết hợp giải đáp thắc mắc cho sinh viên> 
-- 🔍 LLM + vector database (Chroma)
-- ⚙️ Stack: FastAPI, LangChain
+**AI / Machine Learning**  
+`Python` · `PyTorch` · `scikit-learn` · `Transformers` · `Hugging Face` · `OpenCV`
 
-#### 🧠 2. Animal-Classification-use-ResNet-Model – https://github.com/tutran27/Animal-Classification-use-ResNet-Model.git
-- 🧹 Data preprocessing & feature engineering
-- 🧪 Training + evaluation + model registry
-- 🔍 CNN (Resnet)
----
+**LLM / RAG / Agents**  
+`LangChain` · `LangGraph` · `SmolAgents` · `Qdrant` · `ChromaDB` · `SQLite` · `Reranking` · `Hybrid Search`
 
+**Backend / App**  
+`FastAPI` · `Streamlit` · `Pydantic` · `SQLAlchemy` 
 
----
-
-### 📫 Connect with me
-
-- 💼 LinkedIn: [Trần Đình Tú](https://www.linkedin.com/in/tutran27/)
-- ✉️ Email: **dinhtu7cfc@gmail.com**
-- 📱 Phone: **0369.756.987**
+**MLOps / Tools**  
+`Docker` · `Git/GitHub` 
 
 ---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [qdrant-learning-lab](https://github.com/tutran27/qdrant-learning-lab) | Hands-on labs for vector search, payload filtering, hybrid retrieval, rerank, multivector and retrieval evaluation | Qdrant, Python, Dense/Sparse Retrieval |
+| [edge-ai-challenge](https://github.com/tutran27/edge-ai-challenge) | Edge AI pipeline for traffic sign recognition, model quantization and ESP32-S3 inference | TinyCNN, ONNX, TFLite, ESP32-S3 |
+| [course-trial-booking-agent](https://github.com/tutran27/course-trial-booking-agent) | Local LLM tool-calling agent for course consulting, trial booking, fee estimation and booking management | FastAPI, Streamlit, SQLite, Transformers |
+| [Basic-CRM-Agent](https://github.com/tutran27/Basic-CRM-Agent) | CRM assistant backend using LLM tool-calling to query leads, interactions and create follow-up tasks | FastAPI, Groq, SQLAlchemy, SQLite |
+| [CV_Screener](https://github.com/tutran27/-Agent-CV_Screener) | AI resume screening system with LangGraph workflow and human-in-the-loop review | LangGraph, FastAPI, SQLite, LLM |
+| [Basic_RAG_Agent_Use_Smolagents](https://github.com/tutran27/Basic_RAG_Agent_Use_Smolagents) | Vietnamese RAG pipeline for PDF question answering with retriever tool calling | SmolAgents, ChromaDB, FastAPI |
+| [Vehicle-Detection-Traffic-Counting](https://github.com/tutran27/Vehicle-Detection-Traffic-Counting) | Computer vision project for vehicle detection and traffic counting | YOLO, OpenCV, Python |
+
+---
+
+## Main Interests
+
+- Retrieval-Augmented Generation and Vector Databases
+- LLM Agents with tool-calling and memory
+- Computer Vision for real-world monitoring systems
+- Edge AI model optimization and deployment
+- Building AI products with API and simple UI
+
+---
+
+## Contact
+
+- Email: dinhtu7cfc@gmail.com
+- GitHub: [github.com/tutran27](https://github.com/tutran27)
